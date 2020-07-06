@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.myClass {
+  background-color: #282c34;
+}
